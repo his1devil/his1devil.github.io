@@ -1,0 +1,36 @@
+<map id="antai" name="antai">
+<area shape="rect" id="node1" href="#" target="_blank" title="antai" alt="" coords="19,927,91,956"/>
+<area shape="rect" id="node3" href="http://feedly.com/index.html#my" target="_blank" title="网站收藏" alt="" coords="392,32,464,61"/>
+<area shape="rect" id="node5" href="http://douban.fm/mine#!type=liked" target="_blank" title="音乐" alt="" coords="392,139,464,168"/>
+<area shape="rect" id="node6" href="#" target="_blank" title="硬件" alt="" coords="392,192,464,221"/>
+<area shape="rect" id="node7" href="http://steamcommunity.com/id/his1devil/home" target="_blank" title="steam" alt="" coords="660,5,732,35"/>
+<area shape="rect" id="node12" href="https://www.udacity.com/" target="_blank" title="udacity" alt="" coords="660,272,732,301"/>
+<area shape="rect" id="node17" href="http://coursera.org/" target="_blank" title="coursera" alt="" coords="660,379,732,408"/>
+<area shape="rect" id="node23" href="http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html" target="_blank" title="知道创宇研发技能表v2.2" alt="" coords="625,165,767,195"/>
+<area shape="rect" id="node24" href="cs50.harvard.edu" target="_blank" title="cs50" alt="" coords="660,219,732,248"/>
+<area shape="rect" id="node25" href="http://interactivepython.org/courselib/static/pythonds/Introduction/GettingStartedwithData.html" target="_blank" title="数据结构和算法_python" alt="" coords="626,325,766,355"/>
+<area shape="rect" id="node13" href="https://www.udacity.com/course/nd001" target="_blank" title="Front&#45;end web" alt="" coords="970,201,1075,231"/>
+<area shape="rect" id="node14" href="https://www.udacity.com/course/ud853" target="_blank" title="Developing Android Apps" alt="" coords="938,255,1107,284"/>
+<area shape="rect" id="node15" href="https://www.udacity.com/course/ud617" target="_blank" title="Hadoop and MapReduce" alt="" coords="948,308,1097,337"/>
+<area shape="poly" id="node16" href="https://www.udacity.com/course/ud032" target="_blank" title="MongoDB基础" alt="" coords="1085,159,1081,153,1073,148,1059,144,1042,141,1023,140,1004,141,986,144,973,148,964,153,961,159,964,164,973,170,986,174,1004,176,1023,177,1042,176,1059,174,1073,170,1081,164"/>
+<area shape="rect" id="node19" href="https://class.coursera.org/algo-006/lecture" target="_blank" title="算法分析" alt="" coords="1141,415,1213,444"/>
+<area shape="rect" id="node20" href="https://www.coursera.org/course/cryptography" target="_blank" title="密码学" alt="" coords="1141,255,1213,284"/>
+<area shape="rect" id="node21" href="https://www.coursera.org/course/algs4partII" target="_blank" title="基础算法" alt="" coords="1141,308,1213,337"/>
+<area shape="rect" id="node22" href="https://www.coursera.org/course/comnetworks" target="_blank" title="计算机网络" alt="" coords="1140,361,1215,391"/>
+<area shape="rect" id="node28" href="http://www.cs.cmu.edu/~./213/schedule.html" target="_blank" title="CSAPP深入理解计算机系统" alt="" coords="948,735,1097,764"/>
+<area shape="rect" id="node39" href="#" target="_blank" title="biography" alt="" coords="983,521,1062,551"/>
+<area shape="rect" id="node41" href="#" target="_blank" title="English &#45; Tutorial 本地" alt="" coords="941,468,1105,497"/>
+<area shape="rect" id="node43" href="https://github.com/his1devil/algo-ds" target="_blank" title="算法数据结构" alt="" coords="653,615,739,644"/>
+<area shape="rect" id="node44" href="https://github.com/his1devil/lintcode-note" target="_blank" title="LLcode &amp;&amp; Topcoder" alt="" coords="628,668,764,697"/>
+<area shape="rect" id="node56" href="https://github.com/his1devil/dot" target="_blank" title="dot源码" alt="" coords="660,988,732,1017"/>
+<area shape="rect" id="node60" href="http://semantic-ui.com" target="_blank" title="Semantic UI" alt="" coords="977,1092,1069,1121"/>
+<area shape="rect" id="node63" href="https://bitbucket.org/evilat" target="_blank" title="初初翻译" alt="" coords="660,1145,732,1175"/>
+<area shape="rect" id="node65" href="https://angularjs.org/" target="_blank" title="AngularJs" alt="" coords="389,1145,467,1175"/>
+<area shape="rect" id="node78" href="http://weibo.com/twistedsoul" target="_blank" title="我的微博" alt="" coords="392,1465,464,1495"/>
+<area shape="rect" id="node79" href="http://twitter.com/callmefatmanplz" target="_blank" title="Twitter" alt="" coords="392,1519,464,1548"/>
+<area shape="rect" id="node80" href="http://plus.google.com/+antaifeng/" target="_blank" title="谷歌+" alt="" coords="392,1572,464,1601"/>
+<area shape="rect" id="node81" href="http://quora.com/" target="_blank" title="quora" alt="" coords="392,1625,464,1655"/>
+<area shape="rect" id="node82" href="http://zhihu.com/" target="_blank" title="知乎" alt="" coords="392,1679,464,1708"/>
+<area shape="rect" id="node84" href="https://github.com/his1devil" target="_blank" title="If You Mind\nINDEX MYSELF" alt="" coords="6,80,104,120"/>
+<area shape="rect" id="node85" href="#" target="_blank" title="博客" alt="" coords="149,85,221,115"/>
+</map>
